@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "composite": true,
+    "lib": [
+      "ESNext"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "**/*"
+  ]
+}
